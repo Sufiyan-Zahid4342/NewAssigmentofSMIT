@@ -1,0 +1,2 @@
+# NewAssigmentofSMIT
+new repo
